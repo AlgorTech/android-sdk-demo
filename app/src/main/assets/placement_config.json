@@ -1,0 +1,44 @@
+[
+  {
+    "placement_id": "1",
+    "placement_name": "n1",
+    "placement_type": "icon",
+    "placement_width": "400",
+    "placement_height": "400",
+    "placement_orientation": "landscape"
+  },
+  {
+    "placement_id": "2",
+    "placement_name": "n2",
+    "placement_type": "icon",
+    "placement_width": "400",
+    "placement_height": "400",
+    "placement_orientation": "portrait"
+  },
+  {
+    "placement_id": "3",
+    "placement_name": "n3",
+    "placement_type": "interstitial",
+    "placement_orientation": "landscape"
+  },
+  {
+    "placement_id": "4",
+    "placement_name": "n4",
+    "placement_type": "interstitial",
+    "placement_orientation": "portrait"
+  },
+  {
+    "placement_id": "5",
+    "placement_name": "n5",
+    "placement_type": "icon",
+    "placement_width": "400",
+    "placement_height": "400",
+    "placement_orientation": "auto"
+  },
+  {
+    "placement_id": "6",
+    "placement_name": "n6",
+    "placement_type": "interstitial",
+    "placement_orientation": "auto"
+  }
+]
