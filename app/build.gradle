@@ -30,12 +30,10 @@ dependencies {
 
     // add for algor sdk
     implementation(name:'com.algor.adsdk-0.1.0', ext:'aar')
-    // implementation(name:'adsdk-debug', ext:'aar')
     implementation 'com.android.support:recyclerview-v7:27.1.1'
     implementation 'com.zhouyou:rxeasyhttp:2.0.5'
     implementation 'com.hedgehog.ratingbar:app:1.1.2'
     implementation 'com.github.danylovolokh:video-player-manager:0.2.0'
-
     implementation 'pub.devrel:easypermissions:1.2.0'
     implementation 'org.litepal.android:core:1.6.1'
     implementation 'com.zhy:percent-support-extends:1.1.1'
